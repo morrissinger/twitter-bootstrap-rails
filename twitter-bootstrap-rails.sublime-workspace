@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onSearch",
+				"onSearchContractArticlesPainted"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/morrissinger/Sites/twitter-bootstrap-rails/Gemfile",
+		"/Users/morrissinger/Sites/myunionjob/.env",
+		"/Users/morrissinger/Sites/myunionjob/app/controllers/api/v2/locals_controller.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/local.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/controllers/locals_controller.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/controllers/admin/nationals_controller.rb",
+		"/Users/morrissinger/Sites/myunionjob/config/routes.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/_body.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/_body_dashboard.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/_footer.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/assets/stylesheets/bootstrap_overrides.scss",
+		"/Users/morrissinger/Sites/myunionjob/app/views/devices/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/_dashboard_top.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/dashboard/_sidebar.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/bargaining_units/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/directories/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/events/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/feeds/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/locations/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/articles/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/admin/nationals/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/assets/javascripts/application.js",
+		"/Users/morrissinger/Sites/myunionjob/app/views/locals/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/admin/nationals/show.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/events/_form_inner.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/events/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/directories/dashboard/_manage.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/assets/javascripts/myunionjob.js",
+		"/Users/morrissinger/Sites/myunionjob/app/views/people/manage_directories.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/articles/dashboard/_manage.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/assets/javascripts/bootstrap.js.coffee",
+		"/Users/morrissinger/Sites/myunionjob/vendor/assets/less/flat-ui.less",
+		"/Users/morrissinger/Sites/myunionjob/vendor/assets/less/modules/checkbox-and-radio.less",
+		"/Users/morrissinger/Sites/myunionjob/vendor/assets/less/modules/forms.less",
+		"/Users/morrissinger/Sites/myunionjob/app/views/people/edit.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/user_sessions/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/articles/_form_inner.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/bargaining_units/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/devices/_form_inner.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/directories/_form_inner.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/feeds/_form_inner.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/locations/_form_inner.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/messages/_form_inner.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/people/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/tags/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/users/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/people/_person.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/assets/stylesheets/dashboard.css.scss",
+		"/Users/morrissinger/Sites/myunionjob/app/views/locations/_location.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/feeds/_feed.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/events/_event.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/directories/_directory.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/articles/_article.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/admin/users/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/controllers/users_controller.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/admin/pages/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/admin/locals/new_from_import.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/admin/pages/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/admin/users/_form.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/bargaining_units/_contract_article_fields.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/bargaining_units/manage_contract.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/vendor/assets/less/docs.less",
+		"/Users/morrissinger/Sites/myunionjob/vendor/assets/less/modules/login.less",
+		"/Users/morrissinger/Sites/myunionjob/vendor/Flat-UI-master/css/docs.css",
+		"/Users/morrissinger/Sites/myunionjob/vendor/Flat-UI-master/css/flat-ui.css",
+		"/Users/morrissinger/Sites/myunionjob/vendor/Flat-UI-master/less/docs.less",
+		"/Users/morrissinger/Sites/myunionjob/vendor/Flat-UI-master/less/modules/login.less",
+		"/Users/morrissinger/Sites/myunionjob/Gemfile",
+		"/Users/morrissinger/Sites/myunionjob/app/assets/javascripts/directories.js",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/_navbar.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/_modal_dialog.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/admin/nationals/index.html.erb",
+		"/Users/morrissinger/Desktop/bootstrap_and_overrides.css.less",
+		"/Users/morrissinger/Sites/myunionjob/app/views/admin/locals/index.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/bargaining_units/_bargaining_unit.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/tags/_tag.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/modal.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/articles/new.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/articles/edit.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/dashboard.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/application.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/_head.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/vendor/assets/stylesheets/bootstrap.css",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/dashboard/_nav.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/vendor/assets/less/modules/type.less",
+		"/Users/morrissinger/Sites/myunionjob/app/views/layouts/dashboard/_body.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/config/environments/development.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/assets/stylesheets/application.css",
+		"/Users/morrissinger/Sites/myunionjob/app/views/directories/show.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/controllers/directories_controller.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/directory.rb",
+		"/Users/morrissinger/Sites/myunionjob/lib/tasks/feeds.rake",
+		"/Users/morrissinger/Sites/myunionjob/app/models/article.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/controllers/devices_controller.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/gcm/app.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/device.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/message.rb",
+		"/Users/morrissinger/Sites/myunionjob/Rakefile",
+		"/Users/morrissinger/Sites/myunionjob/db/schema.rb",
+		"/Users/morrissinger/Sites/myunionjob/db/migrate/20130708192557_add_device_id_to_apn_devices.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/national.rb",
+		"/Users/morrissinger/Sites/myunionjob/config/initializers/configatron.rb",
+		"/Users/morrissinger/Sites/myunionjob/db/migrate/20130709035705_devices_messages.rb",
+		"/Users/morrissinger/Sites/myunionjob/db/migrate/20130916054712_gcm_apps_gcm_devices.rb",
+		"/Users/morrissinger/Sites/myunionjob/config/initializers/apn.rb",
+		"/Users/morrissinger/Sites/myunionjob/spec/models/contact_message_spec.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/contact_message.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/bargaining_unit.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/location.rb",
+		"/Users/morrissinger/Sites/myunionjob/spec/factories.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/controllers/api/v2/devices_controller.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/controllers/api/v2/contact_messages_controller.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/app.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/gcm/gcm_app.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/gcm_app.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/controllers/messages_controller.rb",
+		"/Users/morrissinger/Sites/myunionjob/spec/models/article_spec.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/models/feed.rb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/locals/new.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/locals/add_twitter.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/app/views/locals/cannot_add_twitter.html.erb",
+		"/Users/morrissinger/Sites/myunionjob/spec/views/devices/edit.html.erb_spec.rb",
+		"/Users/morrissinger/Sites/myunionjob/spec/views/devices/index.html.erb_spec.rb",
+		"/Users/morrissinger/Sites/myunionjob/spec/views/devices/new.html.erb_spec.rb",
+		"/Users/morrissinger/Sites/myunionjob/spec/views/devices/show.html.erb_spec.rb",
+		"/Users/morrissinger/Sites/myunionjob/spec/views/directories/show.html.erb_spec.rb",
+		"/Users/morrissinger/Sites/myunionjob/spec/views/messages/edit.html.erb_spec.rb",
+		"/Users/morrissinger/Sites/myunionjob/spec/views/messages/index.html.erb_spec.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"controls",
+			":class => 'text_area",
+			":class => 'text_field",
+			"text_area",
+			"text_field",
+			"control-label",
+			"control-group",
+			"'Flat-UI-Icons'",
+			"checkbox",
+			"expander",
+			"modal-intro",
+			"letter",
+			"control-group",
+			"span class=\"label",
+			"control-grouop",
+			"controls",
+			"control-label",
+			"control-group",
+			"controls",
+			"control-group",
+			"control-label",
+			"controls",
+			"control-group",
+			"controls",
+			"control-label",
+			"controls",
+			"control-group",
+			"table-actions",
+			"label",
+			"datetime_picker",
+			"datetime",
+			"datepicker",
+			"ui",
+			"tooltip",
+			"btn-mini",
+			"\n//=",
+			"inverse",
+			"push_device",
+			"GCM",
+			"twitter",
+			"@",
+			"bargainingunitpeoplelist",
+			"bargainingunipeoplelist",
+			"base.Panel",
+			"initPanel",
+			"MobileUnion.view.Tabs",
+			"MobileUnion.view.LocalPanel",
+			"MobileUnion.view.BargainingUnitPanel",
+			"		// console.log(\"MobileUnion.view.LocalPanel Mixin: refreshRecord\");\n		// var oldProxyUrl = this.getProxyUrl();\n		// var urlSegments = oldProxyUrl.split(\"/\");\n		// var urlEnding = urlSegments[urlSegments.length-1];\n		// var localId = record.getData().id;\n		// var proxyUrl = MobileUnion.util.Settings.getBaseUrl()+'/locals/'+ localId +'/' + urlEnding;\n		// this.setProxyUrl(proxyUrl);",
+			"		// console.log(\"MobileUnion.view.BargainingUnitPanel Mixin: refreshRecord\");\n		// var oldProxyUrl = this.getProxyUrl();\n		// var urlSegments = oldProxyUrl.split(\"/\");\n		// var urlEnding = urlSegments[urlSegments.length-1];\n		// var localId = record.getData().localId;\n		// var bargainingUnitId = record.getData().id;\n		// var proxyUrl = MobileUnion.util.Settings.getBaseUrl()+'/locals/'+ localId +'/bargaining_units/' + bargainingUnitId + '/' + urlEnding;\n		// this.setProxyUrl(proxyUrl);",
+			"AvailableLocals",
+			"ActiveLocal",
+			"Active",
+			"getBase",
+			"ActiveLocals",
+			"store: 'Locations",
+			"MobileUnion.controller.Application",
+			"FeedItems",
+			"MobileUnion.store.ApiInterface",
+			"ApiInterface",
+			"base.ApiInterface",
+			"MobileUnion.store.Application",
+			"autoload: true",
+			"singleton",
+			"Object.",
+			"\"",
+			"active",
+			"runNextOperation",
+			"start:",
+			"getBatchListeners",
+			"2048",
+			"onBatchException",
+			"getBatchList",
+			"add",
+			"footer",
+			"2013",
+			"Copyright",
+			"Copyright © 2013",
+			"icon",
+			"icons",
+			"high_touch",
+			"high_touch_pr.png",
+			"id=\"nav",
+			"body_class",
+			"minimum_add_body_class",
+			"nav",
+			"page-title-button",
+			"sample.jpg",
+			"sample",
+			"collection_select",
+			"weight",
+			"Messages",
+			"abcdefghijklmnop",
+			"painted",
+			"feed_items",
+			"tag",
+			"tag ",
+			"tag",
+			"owne",
+			"MobileUnion.util.Settings.getBaseUrl()+'",
+			"MobileUnion.util.Settings.getBaseUrl()+'/api",
+			"BaseUrl",
+			"baseUrl",
+			"fetch!",
+			"articless",
+			".articles",
+			".news",
+			"feed_items",
+			"Articles",
+			"Local::Articles",
+			"news",
+			"News",
+			"news",
+			"News",
+			"news",
+			"News",
+			"news",
+			"News",
+			"FeedItem",
+			"feed_item",
+			"FeedItem",
+			"feed_item",
+			"FeedItem",
+			"feed_item",
+			"feed_items",
+			"newss",
+			"Newss",
+			"FeedItem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-sm-10",
+			":class => 'form-control",
+			"form_control",
+			"col-sm-2 control-label",
+			"form-group",
+			"col-sm-10",
+			"col-sm-2 control-label",
+			"form-group",
+			"col-sm-10",
+			"form-group",
+			"col-sm-2 control-label",
+			"col-sm-10",
+			"form-group",
+			"col-sm-10",
+			"col-sm-2 control-label",
+			"col-sm-10",
+			"form-group",
+			"btn-xs",
+			"Gcm",
+			"Locals",
+			"MobileUnion.store.base.ApiInterface",
+			"\\\"",
+			"MobileUnion.util.Settings.getBaseUrl()+'",
+			"articles",
+			"Articles",
+			"articles",
+			"Articles",
+			"articles",
+			"news",
+			"News",
+			"news",
+			"News",
+			"news"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 445.0,
+	"status_bar_visible": true
+}
